@@ -1,15 +1,15 @@
 {
-  "dependencies": {
-    "express": "^4.18.2"
-  },
   "name": "odin-basic-information-site",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
 }

@@ -4,7 +4,6 @@ const url = require('node:url');
 const express = require('express');
 const app = express()
 const path = require("path");
-const { error } = require('node:console');
 
 const hostname = 'localhost';
 const port = 8080;
